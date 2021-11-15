@@ -107,4 +107,4 @@ I tried to keep everything encapsulated in the project and in a sort of plug and
 regarding the load test web ui, I would've loved to make a chart with the queue size and running workers but extending the locust UI is quite bothersome and I could not estimate how long it would take me to make JS that plays nice with locust frontend. This would be a nice to have but if we integrate with datadog would not be necessary, since we could send metrics from the server itself regarding this information
 
 The extended locust UI code is basically a copypaste with minimal tweaks to get the proper data displayed
-This means HTML classes and ids are not very descriptive. I can do frontend, but oh boy I do not enjoy it :'D
+This means HTML classes and ids are not very descriptive.
