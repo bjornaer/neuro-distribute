@@ -90,12 +90,12 @@ For consistency when developing, please use `make lint` for linting!
 
 ## Reference
 
-[cloudpickle](https://github.com/cloudpipe/cloudpickle)
-[tornado](https://www.tornadoweb.org/en/stable/)
-[concurrency on tornado](https://www.tornadoweb.org/en/branch4.5/concurrent.html)
-[click](https://click.palletsprojects.com/en/8.0.x/)
-[locust](https://locust.io/)
-[extend locust UI](https://github.com/locustio/locust/blob/master/examples/extend_web_ui/static/extend.js)
+- [cloudpickle](https://github.com/cloudpipe/cloudpickle)
+- [tornado](https://www.tornadoweb.org/en/stable/)
+- [concurrency on tornado](https://www.tornadoweb.org/en/branch4.5/concurrent.html)
+- [click](https://click.palletsprojects.com/en/8.0.x/)
+- [locust](https://locust.io/)
+- [extend locust UI](https://github.com/locustio/locust/blob/master/examples/extend_web_ui/static/extend.js)
 
 ## Author Notes
 
